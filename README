@@ -1,0 +1,7 @@
+1) To run the program "cd" into the folder
+2) Type "make" 
+3) Run the program by typing "./shell379.o"
+
+
+-- It should be compiled via CPP 14 and above 
+-- Tested on Debian based Linux machines, test machine, Ubuntu 20.04
